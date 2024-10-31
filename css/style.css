@@ -32,8 +32,8 @@ font-weight: 400;
 height: 100%;
 overflow-x: hidden;
 }
-body.overflow{
-overflow: hidden;
+body.overflow {
+overflow: hidden; 
 }
 ol, ul {
 list-style: none;
@@ -342,6 +342,12 @@ color: #00C2FF;
 .ul-white { color: white; }
 .ul-black { color: black; }
 
+body.overflow .fp-nav ul li a span.nav-black { background-color: #fff; }
+body.overflow .ul-black { color: #fff; }
+body.overflow  header.ul-black .logo {
+    background-image: url(../images/logo.svg);
+}
+body.overflow header.ul-black .icon-bar span {    background-color: #fff;}
 /* 스와이퍼 부분 */
 .swiper-slide {
 display: flex;
