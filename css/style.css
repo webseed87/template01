@@ -32,6 +32,9 @@ font-weight: 400;
 height: 100%;
 overflow-x: hidden;
 }
+body.overflow{
+overflow: hidden;
+}
 ol, ul {
 list-style: none;
 }

@@ -59,6 +59,7 @@ $(document).ready(function () {
     $('.icon-bar').on("click", function () {
         $(".all-menu").toggleClass("show");
         $("header").toggleClass("add-menu");
+        $("body").toggleClass("overflow");
     })
   
     $(window).on('scroll', function () {
