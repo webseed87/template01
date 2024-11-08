@@ -4,4 +4,4 @@
 링크를 참고해주세요 [fullPage.js](https://github.com/alvarotrigo/fullPage.js/blob/master/lang/korean/README.md)
 
 
-[데모](template01-ebon.vercel.app)
+[데모](https://template01-ebon.vercel.app/)
